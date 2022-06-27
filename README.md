@@ -1,4 +1,9 @@
-### Hi there 👋
+# sobre mim 
+ola,eu sou Sindy Santos;
+estou interessada em cursos;
+atualmente estou aprendendo Scrath e Javascript
+estou disponivel para colaborar e ajudar meus colegas;
+instagram: @sindy_yorana
 
 <!--
 **sindyNega/sindyNega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
